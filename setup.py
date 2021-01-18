@@ -15,7 +15,7 @@ setup(
     long_description=long_description,
 
 
-    url='https://github.com/',
+    url='https://github.com/tamanna18/Chatbot',
 
 
     author='Tamanna',
